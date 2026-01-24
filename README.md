@@ -71,6 +71,19 @@ Currently working at **Mediclinic Middle East**, I design and manage mission-cri
 
 ---
 
+
+## Certifications
+
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![HL7](https://img.shields.io/badge/HL7-v2.x-green)
+![FHIR](https://img.shields.io/badge/FHIR-R4-orange)
+![InterSystems](https://img.shields.io/badge/InterSystems-IRIS-red)
+![Healthcare](https://img.shields.io/badge/Domain-Healthcare-critical)
+![REST](https://img.shields.io/badge/API-REST-success)
+![SQL](https://img.shields.io/badge/Database-MS%20SQL%20%7C%20Oracle-informational)
+
+---
+
 ## 🎓 Education
 
 - 🎓 **Master of Computer Management** – India  
@@ -94,13 +107,4 @@ Currently working at **Mediclinic Middle East**, I design and manage mission-cri
 
 ---
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![HL7](https://img.shields.io/badge/HL7-v2.x-green)
-![FHIR](https://img.shields.io/badge/FHIR-R4-orange)
-![InterSystems](https://img.shields.io/badge/InterSystems-IRIS-red)
-![Healthcare](https://img.shields.io/badge/Domain-Healthcare-critical)
-![REST](https://img.shields.io/badge/API-REST-success)
-![SQL](https://img.shields.io/badge/Database-MS%20SQL%20%7C%20Oracle-informational)
-
----
 ⭐ If you’re interested in **healthcare interoperability, HL7/FHIR, or integration architecture**, feel free to explore, fork, or connect!
