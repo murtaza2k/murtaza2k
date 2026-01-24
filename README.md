@@ -102,5 +102,5 @@ Currently working at **Mediclinic Middle East**, I design and manage mission-cri
 ![REST](https://img.shields.io/badge/API-REST-success)
 ![SQL](https://img.shields.io/badge/Database-MS%20SQL%20%7C%20Oracle-informational)
 
-
+---
 ⭐ If you’re interested in **healthcare interoperability, HL7/FHIR, or integration architecture**, feel free to explore, fork, or connect!
