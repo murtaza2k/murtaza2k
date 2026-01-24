@@ -1,16 +1,97 @@
-## Hi there 👋
+# 👋 Hi, I'm Murtaza Ali
 
-<!--
-**murtaza2k/murtaza2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚑 **Senior Integration Architect | Healthcare IT | HL7 · FHIR · APIs**
 
-Here are some ideas to get you started:
+I am a **Senior Integration Architect** with **15+ years of experience** in the healthcare industry, specializing in **large-scale system integrations**, **medical device connectivity**, and **health data interoperability**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working at **Mediclinic Middle East**, I design and manage mission-critical integrations connecting **EHRs, medical devices, national health exchanges, and patient platforms**.
+
+---
+
+## 🏥 What I Do
+
+- 🔗 Design & manage **HL7 v2, FHIR, JSON, CSV** integrations  
+- 🩺 Integrate **bedside medical devices** (Ventilators, Vitals, Blood Gas, etc.)
+- 🧠 Build interoperability solutions using **InterSystems IRIS / Ensemble**
+- 🌐 Develop & consume **REST APIs**
+- 🗄️ Database design & performance tuning (MS SQL Server, Oracle)
+- 📊 Healthcare analytics & reporting (Power BI, BI dashboards)
+- ⚙️ Automation of clinical & operational workflows
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Python
+- .NET (C#, VB.NET)
+
+**Healthcare Standards**
+- HL7 v2.x
+- FHIR (R4)
+- DICOM (PACS / RIS)
+- BMDI / Device Integration
+
+**Platforms & Tools**
+- InterSystems IRIS / Ensemble
+- MS SQL Server, Oracle
+- Power BI
+- IIS, Windows Server
+- REST APIs
+
+---
+
+## 🏗️ Key Integration Projects
+
+- 🏥 **Bedside Device Integration**
+  - Ventilators, Vital Monitors, Blood Gas devices via Capsule → EHR (HL7)
+
+- 🌍 **Malaffi (UAE Health Information Exchange)**
+  - Clinical & vaccination data integration
+
+- 🦷 **Dental System (D4W) Integration**
+
+- 🎗️ **Varian Radiotherapy Integration**
+
+- 📱 **MyMediclinic 24x7**
+  - Patient appointment & digital engagement platform
+
+- 💳 **Insurance E-Authorization (DHPO)**
+  - Implemented across hospitals & clinics
+
+---
+
+## 📂 What You’ll Find Here (Coming / In Progress)
+
+- 🔧 HL7 & FHIR integration examples
+- 📦 Sample REST APIs (Python / Flask)
+- 🧪 Medical device simulators
+- 🧩 InterSystems IRIS interoperability patterns
+- 📘 Beginner-friendly healthcare integration guides
+
+---
+
+## 🎓 Education
+
+- 🎓 **Master of Computer Management** – India  
+- 🎓 **Bachelor of Commerce** – India  
+
+---
+
+## 🌍 Languages
+
+- English  
+- Hindi  
+- Gujarati  
+- Marathi  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/murtaza-ali-3409267  
+- 📧 **Email:** murtaza2k@gmail.com  
+
+---
+
+⭐ If you’re interested in **healthcare interoperability, HL7/FHIR, or integration architecture**, feel free to explore, fork, or connect!
