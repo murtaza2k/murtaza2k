@@ -78,6 +78,7 @@ My primary focus is ensuring **data accuracy, system reliability, performance, a
 
 ---
 
+
 ## 🏗️ Key Integration Projects (HL7 & API Focus)
 
 ### 🔗 HL7-Based Medical Device Integration
@@ -106,6 +107,45 @@ My primary focus is ensuring **data accuracy, system reliability, performance, a
 - E-Authorization (DHPO)
 - HL7 & API-based approval workflows
 - Implemented across hospitals and clinics
+
+---
+
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming & Markup Languages
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow)
+![C%23](https://img.shields.io/badge/C%23-.NET-purple)
+![SQL](https://img.shields.io/badge/SQL-Advanced-informational)
+![Markdown](https://img.shields.io/badge/Markdown-Docs-lightgrey)
+![Bash](https://img.shields.io/badge/Bash-Scripting-black)
+
+### 🧩 Frameworks & Libraries
+![Flask](https://img.shields.io/badge/Flask-API-lightgrey)
+![FastAPI](https://img.shields.io/badge/FastAPI-REST-green)
+![Pandas](https://img.shields.io/badge/Pandas-Data-purple)
+![NumPy](https://img.shields.io/badge/NumPy-Data-blue)
+![PyTest](https://img.shields.io/badge/PyTest-Testing-green)
+
+### 🗄️ Databases & Cloud
+![MS SQL](https://img.shields.io/badge/MS%20SQL-Database-red)
+![Oracle](https://img.shields.io/badge/Oracle-Database-critical)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
+![SQLite](https://img.shields.io/badge/SQLite-Lightweight-lightgrey)
+
+### 🏥 Healthcare & Integration
+![HL7](https://img.shields.io/badge/HL7-v2.x-green)
+![FHIR](https://img.shields.io/badge/FHIR-R4-orange)
+![InterSystems](https://img.shields.io/badge/InterSystems-IRIS-red)
+![BMDI](https://img.shields.io/badge/BMDI-Medical%20Devices-critical)
+![REST](https://img.shields.io/badge/API-REST-success)
+
+### ⚙️ Software & Tools
+![Postman](https://img.shields.io/badge/Postman-API-orange)
+![VS Code](https://img.shields.io/badge/VS%20Code-Editor-blue)
+![Git](https://img.shields.io/badge/Git-Version%20Control-red)
+![DBeaver](https://img.shields.io/badge/DBeaver-DB%20Tool-brown)
 
 ---
 
